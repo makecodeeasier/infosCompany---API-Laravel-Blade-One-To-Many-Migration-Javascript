@@ -37,15 +37,9 @@
      let email = document.getElementsByName('email[]');
      let phone = document.getElementsByName('phone[]');
 
-
-
-
-
      let employees = []
 
      for (let i = 0; i < forename.length; i++) {
-
-
          employees.push({
              "forename": forename[i].value,
              "surname": surname[i].value,
@@ -55,22 +49,17 @@
      }
 
 
-
-
-
      employees = JSON.stringify(employees);
 
      oData.append('prac', employees);
 
-     // console.log(employees);
-
+     //console.log(employees);
 
      var object = {};
      oData.forEach((value, key) => object[key] = value);
      var json = JSON.parse(JSON.stringify(object));
 
-     console.log(json);
-
+     //console.log(json);
 
      let oReq = new XMLHttpRequest();
      oReq.open("POST", "./api/add", true);
