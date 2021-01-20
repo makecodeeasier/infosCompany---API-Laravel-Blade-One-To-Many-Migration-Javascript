@@ -1,0 +1,101 @@
+        body {
+            background-image: url('../images/bg.png');
+            overflow: auto;
+            background-attachment: fixed;
+        }
+        
+        #buttonDisplayForm:hover {
+            cursor: pointer;
+            background-color: #ccc;
+        }
+        
+        #buttonDisplayForm {
+            background-color: #e1e1e1;
+        }
+        
+        .icon {
+            margin-bottom: 3px;
+            margin-right: 4px;
+        }
+        
+        .col-md-4 {
+            display: table-cell;
+            height: auto;
+            float: none;
+        }
+        
+        .mainTitle {
+            color: #fff;
+            margin: 0;
+            position: absolute;
+            top: 40%;
+            left: 5%;
+            margin-right: -5%;
+            transform: translate(-5%, -50%);
+            position: fixed;
+        }
+        
+        #requestInformation {
+            color: teal;
+            line-height: 28px;
+            background-color: yellowgreen;
+            margin-bottom: 20px;
+        }
+        
+        .col-engine {
+            padding: 0px;
+            text-align: center;
+            background-color: #001560;
+            line-height: 38px;
+        }
+        
+        .container-engine {
+            max-width: 100%;
+            padding: 0px;
+        }
+        
+        .foot-tab {
+            margin-top: -78px;
+            background-color: #ebebeb;
+        }
+        
+        .foot-sign {
+            line-height: 125px;
+            font-weight: bolder;
+            text-align: center;
+        }
+        
+        .cente {
+            text-align: center;
+        }
+        
+        .button-mig {
+            line-height: 125px;
+            width: 100%;
+        }
+        
+        .mod-f {
+            border-radius: 0px;
+            background-color: #ebebeb;
+            position: relative;
+        }
+        
+        .inp-tr {
+            padding: 5px;
+            margin-bottom: 3px"
+
+        }
+        
+        .save-button {
+            border-radius: 0px;
+            background-color: #001560;
+            border-color: #02155a;
+        }
+        
+        .whit {
+            color: #fff
+        }
+        
+        .radiu {
+            border-radius: 0px;
+        }
