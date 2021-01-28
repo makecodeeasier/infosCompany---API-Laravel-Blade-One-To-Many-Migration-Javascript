@@ -4,8 +4,11 @@
 <section>
     <div class="mainTitle">
         <h1 style="font-size:60px">Lorem epsum dolor im detas</h1>
-        <h2>Coś tam tutaj jest napisane</h2>
-        <p>Na przykład to, że jest to całkiem niezła robota wykonana w Laravel<br>wraz z REST API, PHP, Blade, One-to-Many Migration, JavaScript, CSS, HTML :) </p>
+        <h2>Excepteur sint occaecat cupidatat non proident</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p> 
+        <p>incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip</p>
+        <p>ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum</p>
+        <p>dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
     </div>
 </section>
 
